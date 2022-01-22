@@ -1,0 +1,35 @@
+form {
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 1px solid grey;
+    padding: 40px 20px 20px 20px;
+}
+
+.title {
+    color: ivory;
+    text-align: center;
+    margin: 30px;
+}
+
+.btn-sign_in {
+    width: 49%;
+}
+
+.input-text {
+    background-color: white;
+    ;
+    color: rgb(31, 104, 70);
+
+}
+
+/*
+.bg-grey {
+    background-color: slategray;
+}*/
+
+.errormessage {
+    background-color: white;
+    color: red;
+    margin: 20px 30px 40px 30px;
+    text-align: center;
+}
