@@ -6,11 +6,6 @@ function clickMe() {
     let firstName = document.getElementById('floatingFirstName').value;
     
     document.getElementById('errormessage').innerHTML= '';
-    if (email=" 1 ") {
-        document.getElementById('errormessage').innerHTML+="Это адрес <br>";
-    } else {
-        document.getElementById('errormessage').innerHTML+="Ведите правильный адрес <br>";
-    }
     
     
     if (password.length<=5 && password.length>0) {
